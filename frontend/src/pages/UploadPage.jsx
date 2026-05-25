@@ -47,7 +47,7 @@ export default function UploadPage() {
       formData.append("source_type", source);
 
       const response = await axios.post(
-        "http://127.0.0.1:8000/api/upload/",
+        "https://breath-esg.onrender.com/api/upload/",
         formData,
         {
           headers: {
