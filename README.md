@@ -6,10 +6,7 @@ Prototype ESG operations platform built with Django REST Framework and React for
 
 Frontend:  
 https://your-vercel-url.vercel.app
-
-Backend API:  
-https://breath-esg.onrender.com
-
+https://breath-esg.vercel.app/
 ---
 
 # Overview
