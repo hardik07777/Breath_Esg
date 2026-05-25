@@ -1,0 +1,4 @@
+category,activity_type,quantity,unit,facility
+Fuel,Diesel,-100,L,Mumbai
+Electricity,Grid Power,999999,KWH,
+Travel,Flight,50,KG,Delhi

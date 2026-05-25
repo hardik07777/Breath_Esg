@@ -1,0 +1,4 @@
+category,activity_type,quantity,unit,facility
+Fuel,Diesel Fuel,500,L,Berlin Plant
+Fuel,Petrol,200,GAL,Hamburg Plant
+Procurement,Steel Purchase,1000,KG,Munich Plant
